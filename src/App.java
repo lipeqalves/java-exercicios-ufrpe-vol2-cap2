@@ -5,12 +5,12 @@ import java.util.Scanner;
 public class App {
     public static void main(String[] args) {
         // Cria um objeto Scanner para ler a entrada do usuário pelo teclado
-        Scanner scanner = new Scanner(System.in);
+        Scanner teclado = new Scanner(System.in);
         int opcao; // Variável para armazenar a opção escolhida
 
         // Estrutura de repetição para exibir o menu até o usuário escolher sair
         do {
-            System.out.println("\n===== MENU DE EXERCÍCIOS =====");
+            System.out.println("\n===== MENU DE EXERCÍCIOS VOL 2 CAP 2 =====");
             System.out.println("1 - Exercício 01");
             System.out.println("2 - Exercício 02");
             System.out.println("3 - Exercício 03");
@@ -22,7 +22,7 @@ public class App {
             System.out.print("Escolha uma opção: ");
 
             // Lê a opção digitada pelo usuário
-            opcao = scanner.nextInt();
+            opcao = teclado.nextInt();
 
             // Estrutura switch para executar o exercício escolhido
             switch (opcao) {
@@ -59,6 +59,6 @@ public class App {
         } while (opcao != 0); // Repete até o usuário escolher sair
 
         // Fecha o Scanner
-        scanner.close();
+        teclado.close();
     }
 }

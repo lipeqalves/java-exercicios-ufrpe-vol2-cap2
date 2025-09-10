@@ -1,4 +1,4 @@
-/*
+/**
 6. A série de fibonacci é uma conhecida sucessão de números que começam 0 e 1,
 e que os demais termos são resultados da soma de seus dois antecessores, como
 ilustrado abaixo:

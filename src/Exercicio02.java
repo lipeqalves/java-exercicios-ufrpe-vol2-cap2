@@ -1,4 +1,4 @@
-/*
+/**
  2. Escreva um programa em Java que a partir de variáveis definidas no início do
 programa e que representem o dia (int) e mês (int) escrevam a data representada,
 por extenso. Ex: Se dia = 11 e mês = 6, a saída será igual a “onze de junho”. Utilize a

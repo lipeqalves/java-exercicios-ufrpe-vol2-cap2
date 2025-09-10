@@ -1,4 +1,4 @@
-/*
+/**
  7. Um número é considero primo se ele só divisível por si próprio e por um. Escreva
 um programa em Java que a partir de um valor definido em uma variável no início
 do programa, apresenta todos os números primos de 1 até o número escolhido.

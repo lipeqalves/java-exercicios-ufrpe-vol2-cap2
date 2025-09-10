@@ -1,5 +1,5 @@
-/*
-  4. A conversão de um valor registrando uma temperatura pode ser apresentada
+/**
+4. A conversão de um valor registrando uma temperatura pode ser apresentada
 utilizando graus Celsius ou Fahrenheit. A conversão entre estas escalas é dada pela
 fórmula: celsius/5 -> fahrenheit-32/9
 

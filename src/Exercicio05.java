@@ -1,4 +1,4 @@
-/*
+/**
 5. Escreva um programa em Java que dada a variável x definida no início do programa,
 calcule o fatorial deste número.
  */
