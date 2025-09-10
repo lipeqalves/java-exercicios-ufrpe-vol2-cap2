@@ -82,10 +82,32 @@ Cada exercício foi implementado em uma classe Java separada, com um menu princi
 
 ---
 
+
 ## Como Executar
+
+
+### Opção 1: Usando o menu principal
 
 1. Compile todos os arquivos Java na pasta `src`.
 2. Execute o arquivo `App.java` para acessar o menu e escolher o exercício desejado.
+
+### Opção 2: Executando cada exercício separadamente
+
+1. Abra o terminal e navegue até a pasta `src` do projeto.
+
+2. Compile a classe desejada, por exemplo:
+
+```sh
+javac Exercicio03.java
+```
+
+3. Execute a classe compilada:
+
+```sh
+java Exercicio03
+```
+
+4. Repita para qualquer outro exercício, trocando o nome da classe conforme necessário.
 
 ---
 
