@@ -83,15 +83,62 @@ Cada exercício foi implementado em uma classe Java separada, com um menu princi
 ---
 
 
-## Como Executar
+
+## Como baixar e executar o projeto
+
+### 1. Clonar o repositório
+
+No terminal, execute:
+
+```sh
+git clone https://github.com/lipeqalves/java-exercicios-ufrpe-vol2-cap2.git
+```
+
+Depois, acesse a pasta do projeto:
+
+```sh
+cd java-exercicios-ufrpe-vol2-cap2
+```
+
+### 2. Compilar e executar o App.java
+
+Entre na pasta `src`:
+
+```sh
+cd src
+```
+
+Compile o arquivo principal:
+
+```sh
+javac App.java
+```
+
+Execute o programa:
+
+```sh
+java App
+```
+
+Assim, o menu será exibido e você poderá escolher qual exercício rodar.
 
 
-### Opção 1: Usando o menu principal
+#### Exemplo do menu exibido
 
-1. Compile todos os arquivos Java na pasta `src`.
-2. Execute o arquivo `App.java` para acessar o menu e escolher o exercício desejado.
+```text
+===== MENU DE EXERCÍCIOS =====
+1 - Exercício 01
+2 - Exercício 02
+3 - Exercício 03
+4 - Exercício 04
+5 - Exercício 05
+6 - Exercício 06
+7 - Exercício 07
+0 - Sair
+Escolha uma opção:
+```
 
-### Opção 2: Executando cada exercício separadamente
+### Opção alternativa: Executando cada exercício separadamente
 
 1. Abra o terminal e navegue até a pasta `src` do projeto.
 
