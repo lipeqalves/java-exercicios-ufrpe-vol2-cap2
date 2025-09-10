@@ -1,6 +1,6 @@
-# Programação II - Exercícios Capítulo 3 (Volume 2) - UFRPE EAD
+# Programação II - Exercícios Capítulo 2 (Volume 2) - UFRPE EAD
 
-Este projeto reúne os exercícios do Capítulo 2(peradores e Controles de
+Este projeto reúne os exercícios do Capítulo 2(Operadores e Controles de
 Fluxo) do Volume 2 da apostila da disciplina de Programação II, do curso de Bacharelado em Sistemas de Informação (EAD) da UFRPE.
 
 Cada exercício foi implementado em uma classe Java separada, com um menu principal para facilitar a execução. O objetivo é aplicar e fixar os conceitos estudados no capítulo.
